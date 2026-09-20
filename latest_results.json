@@ -1,0 +1,2361 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-20T06:19:49Z",
+  "fourd": [
+    {
+      "drawDate": "2026-06-23",
+      "firstPrize": "5950",
+      "secondPrize": "2916",
+      "thirdPrize": "1793",
+      "starterNumbers": [
+        "0398",
+        "0733",
+        "1847",
+        "2323",
+        "3258",
+        "4347",
+        "4683",
+        "6302",
+        "8801",
+        "9756"
+      ],
+      "consolationNumbers": [
+        "1939",
+        "2196",
+        "2645",
+        "2847",
+        "4532",
+        "5395",
+        "6654",
+        "6718",
+        "8255",
+        "8838"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-06-26",
+      "firstPrize": "5286",
+      "secondPrize": "7885",
+      "thirdPrize": "2103",
+      "starterNumbers": [
+        "1092",
+        "3142",
+        "4964",
+        "6094",
+        "6299",
+        "6936",
+        "7299",
+        "9006",
+        "9310",
+        "9706"
+      ],
+      "consolationNumbers": [
+        "1122",
+        "1713",
+        "1940",
+        "3972",
+        "4330",
+        "4937",
+        "5950",
+        "7218",
+        "8149",
+        "8474"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-06-27",
+      "firstPrize": "1563",
+      "secondPrize": "5604",
+      "thirdPrize": "3531",
+      "starterNumbers": [
+        "0131",
+        "1203",
+        "3915",
+        "4718",
+        "4788",
+        "4867",
+        "5473",
+        "7149",
+        "9414",
+        "9893"
+      ],
+      "consolationNumbers": [
+        "0503",
+        "1353",
+        "1564",
+        "1592",
+        "1638",
+        "1948",
+        "2562",
+        "5897",
+        "7971",
+        "9763"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-06-30",
+      "firstPrize": "6428",
+      "secondPrize": "6234",
+      "thirdPrize": "9596",
+      "starterNumbers": [
+        "0927",
+        "4561",
+        "5664",
+        "6543",
+        "7638",
+        "7680",
+        "7902",
+        "8886",
+        "9796",
+        "9818"
+      ],
+      "consolationNumbers": [
+        "0707",
+        "1242",
+        "1722",
+        "2534",
+        "3674",
+        "4828",
+        "7927",
+        "8506",
+        "9180",
+        "9386"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-07-03",
+      "firstPrize": "4230",
+      "secondPrize": "1610",
+      "thirdPrize": "2014",
+      "starterNumbers": [
+        "0006",
+        "0598",
+        "0607",
+        "2189",
+        "2902",
+        "3228",
+        "3733",
+        "3847",
+        "3950",
+        "7643"
+      ],
+      "consolationNumbers": [
+        "1464",
+        "1826",
+        "2013",
+        "4717",
+        "6799",
+        "7071",
+        "7537",
+        "8303",
+        "9167",
+        "9659"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-07-04",
+      "firstPrize": "0629",
+      "secondPrize": "0710",
+      "thirdPrize": "2094",
+      "starterNumbers": [
+        "1155",
+        "1752",
+        "3787",
+        "4413",
+        "5156",
+        "5225",
+        "7513",
+        "8331",
+        "8516",
+        "9313"
+      ],
+      "consolationNumbers": [
+        "1963",
+        "2573",
+        "2868",
+        "3314",
+        "3710",
+        "4628",
+        "4924",
+        "5568",
+        "5926",
+        "9707"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-07-07",
+      "firstPrize": "5701",
+      "secondPrize": "3264",
+      "thirdPrize": "8354",
+      "starterNumbers": [
+        "0381",
+        "1268",
+        "1616",
+        "2669",
+        "3921",
+        "4805",
+        "4849",
+        "4906",
+        "6797",
+        "8968"
+      ],
+      "consolationNumbers": [
+        "0028",
+        "0868",
+        "1272",
+        "1540",
+        "3172",
+        "4527",
+        "5974",
+        "6035",
+        "8300",
+        "8856"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-07-10",
+      "firstPrize": "6452",
+      "secondPrize": "8387",
+      "thirdPrize": "0786",
+      "starterNumbers": [
+        "0874",
+        "1263",
+        "1491",
+        "1942",
+        "3610",
+        "3623",
+        "3910",
+        "4751",
+        "5011",
+        "9051"
+      ],
+      "consolationNumbers": [
+        "0160",
+        "0161",
+        "3292",
+        "3549",
+        "3561",
+        "4010",
+        "5147",
+        "9434",
+        "9856",
+        "9924"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-07-11",
+      "firstPrize": "2329",
+      "secondPrize": "7120",
+      "thirdPrize": "6791",
+      "starterNumbers": [
+        "0637",
+        "1621",
+        "1713",
+        "5916",
+        "6097",
+        "6313",
+        "7652",
+        "7971",
+        "9168",
+        "9356"
+      ],
+      "consolationNumbers": [
+        "0695",
+        "2561",
+        "2959",
+        "3241",
+        "3835",
+        "3838",
+        "7476",
+        "8462",
+        "8690",
+        "9537"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-07-14",
+      "firstPrize": "4087",
+      "secondPrize": "2897",
+      "thirdPrize": "7004",
+      "starterNumbers": [
+        "0246",
+        "0595",
+        "0834",
+        "0909",
+        "0950",
+        "1943",
+        "3684",
+        "3915",
+        "4241",
+        "5762"
+      ],
+      "consolationNumbers": [
+        "0137",
+        "2351",
+        "2729",
+        "2855",
+        "4591",
+        "5237",
+        "5280",
+        "6900",
+        "7090",
+        "7932"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-07-17",
+      "firstPrize": "9418",
+      "secondPrize": "2993",
+      "thirdPrize": "1965",
+      "starterNumbers": [
+        "0519",
+        "1044",
+        "1621",
+        "5437",
+        "5567",
+        "6457",
+        "7264",
+        "8319",
+        "9033",
+        "9811"
+      ],
+      "consolationNumbers": [
+        "0507",
+        "1808",
+        "2945",
+        "3930",
+        "4116",
+        "4730",
+        "5454",
+        "5896",
+        "6314",
+        "6861"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-07-18",
+      "firstPrize": "0647",
+      "secondPrize": "3250",
+      "thirdPrize": "3008",
+      "starterNumbers": [
+        "0596",
+        "1322",
+        "2515",
+        "4393",
+        "5376",
+        "7102",
+        "8029",
+        "8111",
+        "8482",
+        "9738"
+      ],
+      "consolationNumbers": [
+        "0329",
+        "0546",
+        "1694",
+        "1810",
+        "2350",
+        "2353",
+        "2609",
+        "4051",
+        "4958",
+        "7608"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-07-21",
+      "firstPrize": "9662",
+      "secondPrize": "3225",
+      "thirdPrize": "7544",
+      "starterNumbers": [
+        "1364",
+        "2097",
+        "2546",
+        "2818",
+        "2969",
+        "4379",
+        "5379",
+        "7327",
+        "8595",
+        "9097"
+      ],
+      "consolationNumbers": [
+        "1696",
+        "1717",
+        "3134",
+        "3296",
+        "3798",
+        "5984",
+        "6141",
+        "7488",
+        "8200",
+        "9376"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-07-24",
+      "firstPrize": "5131",
+      "secondPrize": "4814",
+      "thirdPrize": "3970",
+      "starterNumbers": [
+        "1546",
+        "1612",
+        "1794",
+        "1980",
+        "3106",
+        "3647",
+        "4760",
+        "5762",
+        "6538",
+        "7224"
+      ],
+      "consolationNumbers": [
+        "0932",
+        "1077",
+        "3977",
+        "4522",
+        "6473",
+        "6948",
+        "7116",
+        "8558",
+        "8590",
+        "8965"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-07-25",
+      "firstPrize": "6431",
+      "secondPrize": "2067",
+      "thirdPrize": "4836",
+      "starterNumbers": [
+        "3337",
+        "4586",
+        "4883",
+        "5773",
+        "6170",
+        "6689",
+        "9238",
+        "9415",
+        "9728",
+        "9811"
+      ],
+      "consolationNumbers": [
+        "0389",
+        "0766",
+        "1136",
+        "2220",
+        "2636",
+        "3769",
+        "3792",
+        "4567",
+        "5597",
+        "9627"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-07-28",
+      "firstPrize": "8813",
+      "secondPrize": "1641",
+      "thirdPrize": "0173",
+      "starterNumbers": [
+        "1237",
+        "1382",
+        "1591",
+        "2643",
+        "4038",
+        "4074",
+        "4799",
+        "5033",
+        "6846",
+        "8758"
+      ],
+      "consolationNumbers": [
+        "0089",
+        "1350",
+        "2960",
+        "3596",
+        "3831",
+        "5645",
+        "7554",
+        "7624",
+        "8346",
+        "9512"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-07-31",
+      "firstPrize": "5964",
+      "secondPrize": "0462",
+      "thirdPrize": "0631",
+      "starterNumbers": [
+        "2182",
+        "2596",
+        "2869",
+        "3167",
+        "5565",
+        "5739",
+        "5843",
+        "6308",
+        "7502",
+        "9040"
+      ],
+      "consolationNumbers": [
+        "0267",
+        "1692",
+        "4108",
+        "5810",
+        "6750",
+        "8001",
+        "8632",
+        "8675",
+        "9562",
+        "9955"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-08-01",
+      "firstPrize": "3052",
+      "secondPrize": "7038",
+      "thirdPrize": "2268",
+      "starterNumbers": [
+        "0051",
+        "0766",
+        "2875",
+        "5068",
+        "6347",
+        "6367",
+        "7934",
+        "8842",
+        "8955",
+        "9857"
+      ],
+      "consolationNumbers": [
+        "0179",
+        "0962",
+        "1071",
+        "1448",
+        "1823",
+        "2571",
+        "2908",
+        "4025",
+        "5864",
+        "7278"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-08-04",
+      "firstPrize": "0715",
+      "secondPrize": "0901",
+      "thirdPrize": "5730",
+      "starterNumbers": [
+        "2093",
+        "3317",
+        "4188",
+        "4305",
+        "5910",
+        "6717",
+        "6786",
+        "8903",
+        "9201",
+        "9807"
+      ],
+      "consolationNumbers": [
+        "1833",
+        "4070",
+        "4685",
+        "6299",
+        "7535",
+        "7673",
+        "7943",
+        "8292",
+        "8766",
+        "9530"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-08-07",
+      "firstPrize": "5102",
+      "secondPrize": "1128",
+      "thirdPrize": "6050",
+      "starterNumbers": [
+        "0164",
+        "0427",
+        "3437",
+        "4097",
+        "4259",
+        "5284",
+        "6139",
+        "7399",
+        "7584",
+        "9146"
+      ],
+      "consolationNumbers": [
+        "0221",
+        "1138",
+        "1747",
+        "2834",
+        "4710",
+        "5280",
+        "5849",
+        "6338",
+        "6892",
+        "7406"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-08-08",
+      "firstPrize": "7137",
+      "secondPrize": "7072",
+      "thirdPrize": "7256",
+      "starterNumbers": [
+        "0827",
+        "1048",
+        "2003",
+        "3477",
+        "3561",
+        "5711",
+        "6471",
+        "7098",
+        "8484",
+        "8670"
+      ],
+      "consolationNumbers": [
+        "0740",
+        "3223",
+        "3245",
+        "5245",
+        "6992",
+        "7935",
+        "8023",
+        "8788",
+        "8977",
+        "9646"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-08-11",
+      "firstPrize": "2375",
+      "secondPrize": "2490",
+      "thirdPrize": "6546",
+      "starterNumbers": [
+        "0047",
+        "0498",
+        "0640",
+        "0832",
+        "1505",
+        "2487",
+        "4702",
+        "6103",
+        "6804",
+        "7305"
+      ],
+      "consolationNumbers": [
+        "0942",
+        "1035",
+        "1161",
+        "2482",
+        "3845",
+        "4395",
+        "4643",
+        "5261",
+        "5825",
+        "7456"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-08-14",
+      "firstPrize": "6714",
+      "secondPrize": "5661",
+      "thirdPrize": "9919",
+      "starterNumbers": [
+        "0030",
+        "0608",
+        "0996",
+        "5099",
+        "5127",
+        "8239",
+        "8842",
+        "9593",
+        "9748",
+        "9898"
+      ],
+      "consolationNumbers": [
+        "0022",
+        "1471",
+        "2673",
+        "4101",
+        "4163",
+        "5518",
+        "6709",
+        "7848",
+        "7996",
+        "8287"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-08-15",
+      "firstPrize": "6149",
+      "secondPrize": "9898",
+      "thirdPrize": "9521",
+      "starterNumbers": [
+        "0379",
+        "0427",
+        "1151",
+        "1425",
+        "2809",
+        "6187",
+        "6532",
+        "6963",
+        "7379",
+        "7941"
+      ],
+      "consolationNumbers": [
+        "0580",
+        "1452",
+        "4451",
+        "5403",
+        "5489",
+        "6376",
+        "7405",
+        "7532",
+        "9696",
+        "9697"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-08-18",
+      "firstPrize": "4478",
+      "secondPrize": "1440",
+      "thirdPrize": "2761",
+      "starterNumbers": [
+        "1203",
+        "1292",
+        "4195",
+        "4475",
+        "4500",
+        "4786",
+        "6237",
+        "7679",
+        "8181",
+        "9297"
+      ],
+      "consolationNumbers": [
+        "0909",
+        "0940",
+        "1115",
+        "1323",
+        "7670",
+        "8127",
+        "8485",
+        "9267",
+        "9563",
+        "9796"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-08-21",
+      "firstPrize": "3001",
+      "secondPrize": "4915",
+      "thirdPrize": "3711",
+      "starterNumbers": [
+        "0226",
+        "1598",
+        "2038",
+        "2451",
+        "2876",
+        "4933",
+        "5330",
+        "7936",
+        "8213",
+        "9054"
+      ],
+      "consolationNumbers": [
+        "0369",
+        "0378",
+        "2443",
+        "2603",
+        "4222",
+        "5636",
+        "6924",
+        "7922",
+        "8003",
+        "8846"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-08-22",
+      "firstPrize": "9675",
+      "secondPrize": "0618",
+      "thirdPrize": "6753",
+      "starterNumbers": [
+        "0502",
+        "0901",
+        "2969",
+        "4384",
+        "5973",
+        "6157",
+        "7562",
+        "7890",
+        "8603",
+        "8884"
+      ],
+      "consolationNumbers": [
+        "1967",
+        "2236",
+        "3225",
+        "3413",
+        "4527",
+        "5627",
+        "6266",
+        "7007",
+        "7317",
+        "9579"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-08-25",
+      "firstPrize": "1564",
+      "secondPrize": "2169",
+      "thirdPrize": "8947",
+      "starterNumbers": [
+        "2412",
+        "2588",
+        "3480",
+        "5552",
+        "6607",
+        "7357",
+        "7639",
+        "7988",
+        "9178",
+        "9933"
+      ],
+      "consolationNumbers": [
+        "1195",
+        "1445",
+        "2039",
+        "2929",
+        "4022",
+        "4765",
+        "6114",
+        "6303",
+        "6581",
+        "7490"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-08-28",
+      "firstPrize": "0363",
+      "secondPrize": "4694",
+      "thirdPrize": "2691",
+      "starterNumbers": [
+        "0277",
+        "0457",
+        "0583",
+        "0640",
+        "3223",
+        "3230",
+        "6453",
+        "6512",
+        "7302",
+        "7755"
+      ],
+      "consolationNumbers": [
+        "1024",
+        "1343",
+        "2957",
+        "6639",
+        "7014",
+        "7136",
+        "7480",
+        "9483",
+        "9537",
+        "9679"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-08-29",
+      "firstPrize": "9238",
+      "secondPrize": "8594",
+      "thirdPrize": "0379",
+      "starterNumbers": [
+        "1482",
+        "1739",
+        "2854",
+        "3412",
+        "4808",
+        "6214",
+        "6622",
+        "7241",
+        "7627",
+        "8578"
+      ],
+      "consolationNumbers": [
+        "0608",
+        "0733",
+        "2203",
+        "4510",
+        "4656",
+        "5505",
+        "6756",
+        "8849",
+        "9828",
+        "9868"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-09-01",
+      "firstPrize": "4125",
+      "secondPrize": "8603",
+      "thirdPrize": "3798",
+      "starterNumbers": [
+        "0253",
+        "1002",
+        "1967",
+        "2104",
+        "2182",
+        "2362",
+        "2809",
+        "3598",
+        "3983",
+        "3997"
+      ],
+      "consolationNumbers": [
+        "0616",
+        "1119",
+        "3761",
+        "4997",
+        "6485",
+        "6934",
+        "7885",
+        "7999",
+        "8043",
+        "9283"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-09-04",
+      "firstPrize": "9248",
+      "secondPrize": "2243",
+      "thirdPrize": "5264",
+      "starterNumbers": [
+        "1328",
+        "1451",
+        "1597",
+        "2145",
+        "3662",
+        "4175",
+        "5374",
+        "5624",
+        "6707",
+        "9482"
+      ],
+      "consolationNumbers": [
+        "0313",
+        "1852",
+        "2666",
+        "3710",
+        "4174",
+        "4725",
+        "6653",
+        "8256",
+        "8408",
+        "9983"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-09-05",
+      "firstPrize": "8579",
+      "secondPrize": "1090",
+      "thirdPrize": "0703",
+      "starterNumbers": [
+        "0425",
+        "0760",
+        "0833",
+        "1774",
+        "2312",
+        "3871",
+        "4919",
+        "8832",
+        "9427",
+        "9525"
+      ],
+      "consolationNumbers": [
+        "0090",
+        "0574",
+        "1122",
+        "1614",
+        "2695",
+        "3140",
+        "6758",
+        "7969",
+        "8660",
+        "9103"
+      ],
+      "source": "merged_seed_and_scrape"
+    },
+    {
+      "drawDate": "2026-09-06",
+      "firstPrize": "8579",
+      "secondPrize": "1090",
+      "thirdPrize": "0703",
+      "starterNumbers": [
+        "0425",
+        "0760",
+        "0833",
+        "1774",
+        "2312",
+        "3871",
+        "4919",
+        "8832",
+        "9427",
+        "9525"
+      ],
+      "consolationNumbers": [
+        "0090",
+        "0574",
+        "1122",
+        "1614",
+        "2695",
+        "3140",
+        "6758",
+        "7969",
+        "8660",
+        "9103"
+      ],
+      "source": "sgp_online_api"
+    },
+    {
+      "drawDate": "2026-09-09",
+      "firstPrize": "1853",
+      "secondPrize": "0075",
+      "thirdPrize": "4270",
+      "starterNumbers": [
+        "0644",
+        "3108",
+        "3129",
+        "3960",
+        "4317",
+        "5600",
+        "6236",
+        "6583",
+        "7959",
+        "9031"
+      ],
+      "consolationNumbers": [
+        "0699",
+        "0929",
+        "1421",
+        "1624",
+        "2584",
+        "3642",
+        "4964",
+        "7862",
+        "9240",
+        "9655"
+      ],
+      "source": "sgp_online_api"
+    },
+    {
+      "drawDate": "2026-09-12",
+      "firstPrize": "2710",
+      "secondPrize": "2469",
+      "thirdPrize": "6782",
+      "starterNumbers": [
+        "0694",
+        "1487",
+        "2871",
+        "4960",
+        "5999",
+        "6687",
+        "7884",
+        "9181",
+        "9532",
+        "9600"
+      ],
+      "consolationNumbers": [
+        "0194",
+        "1585",
+        "3320",
+        "3425",
+        "4425",
+        "6367",
+        "6577",
+        "7074",
+        "9094",
+        "9982"
+      ],
+      "source": "sgp_online_api"
+    },
+    {
+      "drawDate": "2026-09-13",
+      "firstPrize": "9400",
+      "secondPrize": "3057",
+      "thirdPrize": "8077",
+      "starterNumbers": [
+        "1368",
+        "1383",
+        "1427",
+        "1673",
+        "2572",
+        "4363",
+        "4609",
+        "5808",
+        "7003",
+        "8861"
+      ],
+      "consolationNumbers": [
+        "0235",
+        "0879",
+        "1589",
+        "2012",
+        "4671",
+        "4932",
+        "6220",
+        "6568",
+        "7139",
+        "9777"
+      ],
+      "source": "sgp_online_api"
+    },
+    {
+      "drawDate": "2026-09-16",
+      "firstPrize": "9224",
+      "secondPrize": "1136",
+      "thirdPrize": "8473",
+      "starterNumbers": [
+        "0019",
+        "0660",
+        "0828",
+        "2713",
+        "4681",
+        "4765",
+        "6060",
+        "6475",
+        "6781",
+        "8236"
+      ],
+      "consolationNumbers": [
+        "2356",
+        "4848",
+        "5137",
+        "6791",
+        "7318",
+        "7410",
+        "7633",
+        "8951",
+        "9241",
+        "9710"
+      ],
+      "source": "sgp_online_api"
+    },
+    {
+      "drawDate": "2026-09-19",
+      "firstPrize": "0921",
+      "secondPrize": "3068",
+      "thirdPrize": "2114",
+      "starterNumbers": [
+        "0151",
+        "1665",
+        "3071",
+        "3364",
+        "4698",
+        "6211",
+        "6557",
+        "6602",
+        "7072",
+        "7527"
+      ],
+      "consolationNumbers": [
+        "0973",
+        "2766",
+        "3221",
+        "3890",
+        "4749",
+        "4833",
+        "5331",
+        "7235",
+        "7531",
+        "7913"
+      ],
+      "source": "sgp_online_api"
+    }
+  ],
+  "toto": [
+    {
+      "drawNumber": 4193,
+      "drawDate": "2026-06-22",
+      "winningNumbers": [
+        4,
+        11,
+        15,
+        16,
+        21,
+        39
+      ],
+      "additionalNumber": 20,
+      "groupPrizes": {
+        "1": {
+          "amount": "5624442",
+          "winners": 1
+        },
+        "2": {
+          "amount": "96169",
+          "winners": 6
+        },
+        "3": {
+          "amount": "1587",
+          "winners": 250
+        },
+        "4": {
+          "amount": "357",
+          "winners": 607
+        },
+        "5": {
+          "amount": "50",
+          "winners": 13063
+        },
+        "6": {
+          "amount": "25",
+          "winners": 17452
+        },
+        "7": {
+          "amount": "10",
+          "winners": 236098
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4194,
+      "drawDate": "2026-06-25",
+      "winningNumbers": [
+        4,
+        21,
+        23,
+        28,
+        31,
+        39
+      ],
+      "additionalNumber": 41,
+      "groupPrizes": {
+        "1": {
+          "amount": null,
+          "winners": null
+        },
+        "2": {
+          "amount": null,
+          "winners": null
+        },
+        "3": {
+          "amount": "1923",
+          "winners": 90
+        },
+        "4": {
+          "amount": "540",
+          "winners": 175
+        },
+        "5": {
+          "amount": "50",
+          "winners": 4774
+        },
+        "6": {
+          "amount": "25",
+          "winners": 5749
+        },
+        "7": {
+          "amount": "10",
+          "winners": 93887
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4195,
+      "drawDate": "2026-06-29",
+      "winningNumbers": [
+        6,
+        11,
+        22,
+        23,
+        31,
+        34
+      ],
+      "additionalNumber": 14,
+      "groupPrizes": {
+        "1": {
+          "amount": "2955939",
+          "winners": 1
+        },
+        "2": {
+          "amount": "88901",
+          "winners": 7
+        },
+        "3": {
+          "amount": "1666",
+          "winners": 153
+        },
+        "4": {
+          "amount": "316",
+          "winners": 440
+        },
+        "5": {
+          "amount": "50",
+          "winners": 9007
+        },
+        "6": {
+          "amount": "25",
+          "winners": 11770
+        },
+        "7": {
+          "amount": "10",
+          "winners": 161641
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4196,
+      "drawDate": "2026-07-02",
+      "winningNumbers": [
+        5,
+        7,
+        11,
+        37,
+        46,
+        49
+      ],
+      "additionalNumber": 16,
+      "groupPrizes": {
+        "1": {
+          "amount": null,
+          "winners": null
+        },
+        "2": {
+          "amount": "127051",
+          "winners": 2
+        },
+        "3": {
+          "amount": "1560",
+          "winners": 112
+        },
+        "4": {
+          "amount": "355",
+          "winners": 269
+        },
+        "5": {
+          "amount": "50",
+          "winners": 5172
+        },
+        "6": {
+          "amount": "25",
+          "winners": 7826
+        },
+        "7": {
+          "amount": "10",
+          "winners": 107052
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4197,
+      "drawDate": "2026-07-06",
+      "winningNumbers": [
+        8,
+        25,
+        34,
+        37,
+        39,
+        46
+      ],
+      "additionalNumber": 44,
+      "groupPrizes": {
+        "1": {
+          "amount": null,
+          "winners": null
+        },
+        "2": {
+          "amount": "92756",
+          "winners": 4
+        },
+        "3": {
+          "amount": "2258",
+          "winners": 113
+        },
+        "4": {
+          "amount": "487",
+          "winners": 286
+        },
+        "5": {
+          "amount": "50",
+          "winners": 6462
+        },
+        "6": {
+          "amount": "25",
+          "winners": 8847
+        },
+        "7": {
+          "amount": "10",
+          "winners": 125618
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4198,
+      "drawDate": "2026-07-09",
+      "winningNumbers": [
+        23,
+        27,
+        31,
+        38,
+        42,
+        47
+      ],
+      "additionalNumber": 29,
+      "groupPrizes": {
+        "1": {
+          "amount": null,
+          "winners": null
+        },
+        "2": {
+          "amount": "289134",
+          "winners": 2
+        },
+        "3": {
+          "amount": "1988",
+          "winners": 200
+        },
+        "4": {
+          "amount": "418",
+          "winners": 519
+        },
+        "5": {
+          "amount": "50",
+          "winners": 10800
+        },
+        "6": {
+          "amount": "25",
+          "winners": 14727
+        },
+        "7": {
+          "amount": "10",
+          "winners": 199012
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4199,
+      "drawDate": "2026-07-13",
+      "winningNumbers": [
+        14,
+        22,
+        32,
+        33,
+        36,
+        46
+      ],
+      "additionalNumber": 42,
+      "groupPrizes": {
+        "1": {
+          "amount": "6408996",
+          "winners": 2
+        },
+        "2": {
+          "amount": "124595",
+          "winners": 12
+        },
+        "3": {
+          "amount": "1823",
+          "winners": 564
+        },
+        "4": {
+          "amount": "396",
+          "winners": 1418
+        },
+        "5": {
+          "amount": "50",
+          "winners": 30081
+        },
+        "6": {
+          "amount": "25",
+          "winners": 39997
+        },
+        "7": {
+          "amount": "10",
+          "winners": 550854
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4200,
+      "drawDate": "2026-07-16",
+      "winningNumbers": [
+        6,
+        27,
+        28,
+        41,
+        43,
+        44
+      ],
+      "additionalNumber": 19,
+      "groupPrizes": {
+        "1": {
+          "amount": "1187340",
+          "winners": 1
+        },
+        "2": {
+          "amount": "249967",
+          "winners": 1
+        },
+        "3": {
+          "amount": "3819",
+          "winners": 45
+        },
+        "4": {
+          "amount": "415",
+          "winners": 226
+        },
+        "5": {
+          "amount": "50",
+          "winners": 4131
+        },
+        "6": {
+          "amount": "25",
+          "winners": 6728
+        },
+        "7": {
+          "amount": "10",
+          "winners": 82556
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4201,
+      "drawDate": "2026-07-20",
+      "winningNumbers": [
+        1,
+        8,
+        11,
+        14,
+        33,
+        43
+      ],
+      "additionalNumber": 44,
+      "groupPrizes": {
+        "1": {
+          "amount": null,
+          "winners": null
+        },
+        "2": {
+          "amount": "65663",
+          "winners": 4
+        },
+        "3": {
+          "amount": "1598",
+          "winners": 113
+        },
+        "4": {
+          "amount": "347",
+          "winners": 284
+        },
+        "5": {
+          "amount": "50",
+          "winners": 6680
+        },
+        "6": {
+          "amount": "25",
+          "winners": 7131
+        },
+        "7": {
+          "amount": "10",
+          "winners": 117656
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4202,
+      "drawDate": "2026-07-23",
+      "winningNumbers": [
+        8,
+        11,
+        17,
+        21,
+        37,
+        48
+      ],
+      "additionalNumber": 35,
+      "groupPrizes": {
+        "1": {
+          "amount": null,
+          "winners": null
+        },
+        "2": {
+          "amount": "70490",
+          "winners": 5
+        },
+        "3": {
+          "amount": "1756",
+          "winners": 138
+        },
+        "4": {
+          "amount": "304",
+          "winners": 436
+        },
+        "5": {
+          "amount": "50",
+          "winners": 7739
+        },
+        "6": {
+          "amount": "25",
+          "winners": 9790
+        },
+        "7": {
+          "amount": "10",
+          "winners": 144353
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4203,
+      "drawDate": "2026-07-27",
+      "winningNumbers": [
+        22,
+        23,
+        30,
+        36,
+        44,
+        48
+      ],
+      "additionalNumber": 28,
+      "groupPrizes": {
+        "1": {
+          "amount": "5900838",
+          "winners": 1
+        },
+        "2": {
+          "amount": "156797",
+          "winners": 4
+        },
+        "3": {
+          "amount": "1790",
+          "winners": 241
+        },
+        "4": {
+          "amount": "385",
+          "winners": 611
+        },
+        "5": {
+          "amount": "50",
+          "winners": 12154
+        },
+        "6": {
+          "amount": "25",
+          "winners": 16502
+        },
+        "7": {
+          "amount": "10",
+          "winners": 219617
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4204,
+      "drawDate": "2026-07-30",
+      "winningNumbers": [
+        4,
+        7,
+        16,
+        23,
+        30,
+        32
+      ],
+      "additionalNumber": 8,
+      "groupPrizes": {
+        "1": {
+          "amount": null,
+          "winners": null
+        },
+        "2": {
+          "amount": "37550",
+          "winners": 7
+        },
+        "3": {
+          "amount": "1282",
+          "winners": 141
+        },
+        "4": {
+          "amount": "180",
+          "winners": 549
+        },
+        "5": {
+          "amount": "50",
+          "winners": 7176
+        },
+        "6": {
+          "amount": "25",
+          "winners": 13407
+        },
+        "7": {
+          "amount": "10",
+          "winners": 117014
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4205,
+      "drawDate": "2026-08-03",
+      "winningNumbers": [
+        9,
+        29,
+        30,
+        35,
+        36,
+        40
+      ],
+      "additionalNumber": 11,
+      "groupPrizes": {
+        "1": {
+          "amount": "3109875",
+          "winners": 1
+        },
+        "2": {
+          "amount": "55981",
+          "winners": 7
+        },
+        "3": {
+          "amount": "2057",
+          "winners": 131
+        },
+        "4": {
+          "amount": "399",
+          "winners": 369
+        },
+        "5": {
+          "amount": "50",
+          "winners": 7093
+        },
+        "6": {
+          "amount": "25",
+          "winners": 11025
+        },
+        "7": {
+          "amount": "10",
+          "winners": 140963
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4206,
+      "drawDate": "2026-08-07",
+      "winningNumbers": [
+        5,
+        7,
+        30,
+        33,
+        36,
+        46
+      ],
+      "additionalNumber": 44,
+      "groupPrizes": {
+        "1": {
+          "amount": "1711507",
+          "winners": 3
+        },
+        "2": {
+          "amount": "135119",
+          "winners": 8
+        },
+        "3": {
+          "amount": "1461",
+          "winners": 509
+        },
+        "4": {
+          "amount": "358",
+          "winners": 1133
+        },
+        "5": {
+          "amount": "50",
+          "winners": 24370
+        },
+        "6": {
+          "amount": "25",
+          "winners": 29897
+        },
+        "7": {
+          "amount": "10",
+          "winners": 433859
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4207,
+      "drawDate": "2026-08-10",
+      "winningNumbers": [
+        3,
+        6,
+        17,
+        32,
+        33,
+        39
+      ],
+      "additionalNumber": 7,
+      "groupPrizes": {
+        "1": {
+          "amount": null,
+          "winners": null
+        },
+        "2": {
+          "amount": "260009",
+          "winners": 1
+        },
+        "3": {
+          "amount": "1569",
+          "winners": 114
+        },
+        "4": {
+          "amount": "314",
+          "winners": 311
+        },
+        "5": {
+          "amount": "50",
+          "winners": 5457
+        },
+        "6": {
+          "amount": "25",
+          "winners": 9270
+        },
+        "7": {
+          "amount": "10",
+          "winners": 98903
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4208,
+      "drawDate": "2026-08-13",
+      "winningNumbers": [
+        4,
+        11,
+        22,
+        32,
+        40,
+        49
+      ],
+      "additionalNumber": 37,
+      "groupPrizes": {
+        "1": {
+          "amount": "2926834",
+          "winners": 1
+        },
+        "2": {
+          "amount": "356168",
+          "winners": 1
+        },
+        "3": {
+          "amount": "1959",
+          "winners": 125
+        },
+        "4": {
+          "amount": "391",
+          "winners": 342
+        },
+        "5": {
+          "amount": "50",
+          "winners": 7875
+        },
+        "6": {
+          "amount": "25",
+          "winners": 9691
+        },
+        "7": {
+          "amount": "10",
+          "winners": 131549
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4209,
+      "drawDate": "2026-08-17",
+      "winningNumbers": [
+        9,
+        16,
+        22,
+        24,
+        33,
+        47
+      ],
+      "additionalNumber": 8,
+      "groupPrizes": {
+        "1": {
+          "amount": null,
+          "winners": null
+        },
+        "2": {
+          "amount": "67417",
+          "winners": 4
+        },
+        "3": {
+          "amount": "2060",
+          "winners": 90
+        },
+        "4": {
+          "amount": "255",
+          "winners": 398
+        },
+        "5": {
+          "amount": "50",
+          "winners": 5062
+        },
+        "6": {
+          "amount": "25",
+          "winners": 10667
+        },
+        "7": {
+          "amount": "10",
+          "winners": 97212
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4210,
+      "drawDate": "2026-08-20",
+      "winningNumbers": [
+        3,
+        18,
+        19,
+        25,
+        27,
+        48
+      ],
+      "additionalNumber": 40,
+      "groupPrizes": {
+        "1": {
+          "amount": null,
+          "winners": null
+        },
+        "2": {
+          "amount": "117372",
+          "winners": 3
+        },
+        "3": {
+          "amount": "1907",
+          "winners": 127
+        },
+        "4": {
+          "amount": "390",
+          "winners": 339
+        },
+        "5": {
+          "amount": "50",
+          "winners": 8028
+        },
+        "6": {
+          "amount": "25",
+          "winners": 8343
+        },
+        "7": {
+          "amount": "10",
+          "winners": 146008
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4211,
+      "drawDate": "2026-08-24",
+      "winningNumbers": [
+        13,
+        22,
+        26,
+        38,
+        39,
+        44
+      ],
+      "additionalNumber": 6,
+      "groupPrizes": {
+        "1": {
+          "amount": "5814107",
+          "winners": 1
+        },
+        "2": {
+          "amount": "200747",
+          "winners": 3
+        },
+        "3": {
+          "amount": "1336",
+          "winners": 310
+        },
+        "4": {
+          "amount": "352",
+          "winners": 642
+        },
+        "5": {
+          "amount": "50",
+          "winners": 12143
+        },
+        "6": {
+          "amount": "25",
+          "winners": 17769
+        },
+        "7": {
+          "amount": "10",
+          "winners": 219481
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4212,
+      "drawDate": "2026-08-27",
+      "winningNumbers": [
+        8,
+        9,
+        14,
+        17,
+        35,
+        40
+      ],
+      "additionalNumber": 18,
+      "groupPrizes": {
+        "1": {
+          "amount": "1242725",
+          "winners": 1
+        },
+        "2": {
+          "amount": "261627",
+          "winners": 1
+        },
+        "3": {
+          "amount": "1323",
+          "winners": 136
+        },
+        "4": {
+          "amount": "326",
+          "winners": 301
+        },
+        "5": {
+          "amount": "50",
+          "winners": 6293
+        },
+        "6": {
+          "amount": "25",
+          "winners": 8957
+        },
+        "7": {
+          "amount": "10",
+          "winners": 114564
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4213,
+      "drawDate": "2026-08-31",
+      "winningNumbers": [
+        7,
+        26,
+        33,
+        39,
+        41,
+        46
+      ],
+      "additionalNumber": 11,
+      "groupPrizes": {
+        "1": {
+          "amount": null,
+          "winners": null
+        },
+        "2": {
+          "amount": "88998",
+          "winners": 3
+        },
+        "3": {
+          "amount": "2481",
+          "winners": 74
+        },
+        "4": {
+          "amount": "285",
+          "winners": 352
+        },
+        "5": {
+          "amount": "50",
+          "winners": 4685
+        },
+        "6": {
+          "amount": "25",
+          "winners": 8216
+        },
+        "7": {
+          "amount": "10",
+          "winners": 89516
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4214,
+      "drawDate": "2026-09-03",
+      "winningNumbers": [
+        29,
+        33,
+        39,
+        42,
+        43,
+        44
+      ],
+      "additionalNumber": 49,
+      "groupPrizes": {
+        "1": {
+          "amount": null,
+          "winners": null
+        },
+        "2": {
+          "amount": "178569",
+          "winners": 2
+        },
+        "3": {
+          "amount": "2361",
+          "winners": 104
+        },
+        "4": {
+          "amount": "418",
+          "winners": 321
+        },
+        "5": {
+          "amount": "50",
+          "winners": 5818
+        },
+        "6": {
+          "amount": "25",
+          "winners": 8564
+        },
+        "7": {
+          "amount": "10",
+          "winners": 113682
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4215,
+      "drawDate": "2026-09-07",
+      "winningNumbers": [
+        4,
+        7,
+        13,
+        23,
+        27,
+        32
+      ],
+      "additionalNumber": 48,
+      "groupPrizes": {
+        "1": {
+          "amount": "5903013",
+          "winners": 1
+        },
+        "2": {
+          "amount": "103102",
+          "winners": 6
+        },
+        "3": {
+          "amount": "1056",
+          "winners": 403
+        },
+        "4": {
+          "amount": "372",
+          "winners": 625
+        },
+        "5": {
+          "amount": "50",
+          "winners": 17468
+        },
+        "6": {
+          "amount": "25",
+          "winners": 16622
+        },
+        "7": {
+          "amount": "10",
+          "winners": 279012
+        }
+      },
+      "source": "sgp_scrape_2023_present"
+    },
+    {
+      "drawNumber": 4216,
+      "drawDate": "2026-09-10",
+      "winningNumbers": [
+        6,
+        16,
+        26,
+        30,
+        39,
+        42
+      ],
+      "additionalNumber": 27,
+      "groupPrizes": {
+        "1": {
+          "amount": null,
+          "winners": null
+        },
+        "2": {
+          "amount": null,
+          "winners": null
+        },
+        "3": {
+          "amount": "2007",
+          "winners": 93
+        },
+        "4": {
+          "amount": "451",
+          "winners": 226
+        },
+        "5": {
+          "amount": "50",
+          "winners": 5581
+        },
+        "6": {
+          "amount": "25",
+          "winners": 6461
+        },
+        "7": {
+          "amount": "10",
+          "winners": 104319
+        }
+      },
+      "source": "sgp_online_api"
+    },
+    {
+      "drawNumber": 4217,
+      "drawDate": "2026-09-14",
+      "winningNumbers": [
+        6,
+        7,
+        8,
+        16,
+        18,
+        35
+      ],
+      "additionalNumber": 31,
+      "groupPrizes": {
+        "1": {
+          "amount": "1553027",
+          "winners": 2
+        },
+        "2": {
+          "amount": "108985",
+          "winners": 6
+        },
+        "3": {
+          "amount": "671",
+          "winners": 392
+        },
+        "4": {
+          "amount": "274",
+          "winners": 525
+        },
+        "5": {
+          "amount": "50",
+          "winners": 13668
+        },
+        "6": {
+          "amount": "25",
+          "winners": 13265
+        },
+        "7": {
+          "amount": "10",
+          "winners": 196644
+        }
+      },
+      "source": "sgp_online_api"
+    },
+    {
+      "drawNumber": 4218,
+      "drawDate": "2026-09-17",
+      "winningNumbers": [
+        17,
+        19,
+        23,
+        35,
+        36,
+        39
+      ],
+      "additionalNumber": 49,
+      "groupPrizes": {
+        "1": {
+          "amount": null,
+          "winners": null
+        },
+        "2": {
+          "amount": "262918",
+          "winners": 1
+        },
+        "3": {
+          "amount": "2205",
+          "winners": 82
+        },
+        "4": {
+          "amount": "401",
+          "winners": 246
+        },
+        "5": {
+          "amount": "50",
+          "winners": 5187
+        },
+        "6": {
+          "amount": "25",
+          "winners": 6512
+        },
+        "7": {
+          "amount": "10",
+          "winners": 99958
+        }
+      },
+      "source": "sgp_online_api"
+    }
+  ]
+}
