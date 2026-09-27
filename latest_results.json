@@ -1,71 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T04:16:25Z",
+  "generatedAt": "2026-09-27T04:30:48Z",
   "fourd": [
-    {
-      "drawDate": "2026-06-27",
-      "firstPrize": "5286",
-      "secondPrize": "7885",
-      "thirdPrize": "2103",
-      "starterNumbers": [
-        "1092",
-        "3142",
-        "4964",
-        "6094",
-        "6299",
-        "6936",
-        "7299",
-        "9006",
-        "9310",
-        "9706"
-      ],
-      "consolationNumbers": [
-        "1122",
-        "1713",
-        "1940",
-        "3972",
-        "4330",
-        "4937",
-        "5950",
-        "7218",
-        "8149",
-        "8474"
-      ],
-      "officialDrawNumber": null,
-      "source": "sgp_scrape_2018_present"
-    },
-    {
-      "drawDate": "2026-06-28",
-      "firstPrize": "1563",
-      "secondPrize": "5604",
-      "thirdPrize": "3531",
-      "starterNumbers": [
-        "0131",
-        "1203",
-        "3915",
-        "4718",
-        "4788",
-        "4867",
-        "5473",
-        "7149",
-        "9414",
-        "9893"
-      ],
-      "consolationNumbers": [
-        "0503",
-        "1353",
-        "1564",
-        "1592",
-        "1638",
-        "1948",
-        "2562",
-        "5897",
-        "7971",
-        "9763"
-      ],
-      "officialDrawNumber": null,
-      "source": "sgp_scrape_2018_present"
-    },
     {
       "drawDate": "2026-07-01",
       "firstPrize": "6428",
@@ -1248,6 +1184,38 @@
         "9423"
       ],
       "officialDrawNumber": 5539,
+      "source": "sgp_online_api"
+    },
+    {
+      "drawDate": "2026-09-26",
+      "firstPrize": "6999",
+      "secondPrize": "4403",
+      "thirdPrize": "8454",
+      "starterNumbers": [
+        "1993",
+        "2477",
+        "2736",
+        "2860",
+        "3118",
+        "3127",
+        "6142",
+        "6743",
+        "7336",
+        "7348"
+      ],
+      "consolationNumbers": [
+        "0194",
+        "1324",
+        "1644",
+        "3369",
+        "5447",
+        "5587",
+        "5787",
+        "6018",
+        "6224",
+        "9253"
+      ],
+      "officialDrawNumber": 5540,
       "source": "sgp_online_api"
     }
   ],
