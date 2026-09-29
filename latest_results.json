@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T09:59:22Z",
+  "generatedAt": "2026-09-29T14:12:09Z",
   "fourd": [
     {
       "drawDate": "2026-07-01",
@@ -2348,6 +2348,50 @@
         "7": {
           "amount": "10",
           "winners": 221639
+        }
+      },
+      "source": "sgp_online_api"
+    },
+    {
+      "drawNumber": 4221,
+      "drawDate": "2026-09-28",
+      "winningNumbers": [
+        14,
+        22,
+        25,
+        27,
+        34,
+        37
+      ],
+      "additionalNumber": 18,
+      "groupPrizes": {
+        "1": {
+          "amount": "1298326",
+          "winners": 1
+        },
+        "2": {
+          "amount": "243929",
+          "winners": 5
+        },
+        "3": {
+          "amount": "1938",
+          "winners": 97
+        },
+        "4": {
+          "amount": "354",
+          "winners": 290
+        },
+        "5": {
+          "amount": "50",
+          "winners": 5285
+        },
+        "6": {
+          "amount": "25",
+          "winners": 7294
+        },
+        "7": {
+          "amount": "10",
+          "winners": 97488
         }
       },
       "source": "sgp_online_api"
