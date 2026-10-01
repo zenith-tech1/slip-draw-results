@@ -1,39 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T14:12:09Z",
+  "generatedAt": "2026-10-01T13:35:12Z",
   "fourd": [
-    {
-      "drawDate": "2026-07-01",
-      "firstPrize": "6428",
-      "secondPrize": "6234",
-      "thirdPrize": "9596",
-      "starterNumbers": [
-        "0927",
-        "4561",
-        "5664",
-        "6543",
-        "7638",
-        "7680",
-        "7902",
-        "8886",
-        "9796",
-        "9818"
-      ],
-      "consolationNumbers": [
-        "0707",
-        "1242",
-        "1722",
-        "2534",
-        "3674",
-        "4828",
-        "7927",
-        "8506",
-        "9180",
-        "9386"
-      ],
-      "officialDrawNumber": null,
-      "source": "sgp_scrape_2018_present"
-    },
     {
       "drawDate": "2026-07-04",
       "firstPrize": "4230",
@@ -1249,53 +1217,41 @@
       ],
       "officialDrawNumber": 5541,
       "source": "sgp_online_api"
+    },
+    {
+      "drawDate": "2026-09-30",
+      "firstPrize": "3096",
+      "secondPrize": "5923",
+      "thirdPrize": "8242",
+      "starterNumbers": [
+        "0883",
+        "1069",
+        "3791",
+        "4194",
+        "4226",
+        "8314",
+        "8875",
+        "9003",
+        "9328",
+        "9904"
+      ],
+      "consolationNumbers": [
+        "0229",
+        "0284",
+        "0442",
+        "0602",
+        "2909",
+        "4575",
+        "6002",
+        "6458",
+        "7721",
+        "9065"
+      ],
+      "officialDrawNumber": 5542,
+      "source": "sgp_online_api"
     }
   ],
   "toto": [
-    {
-      "drawNumber": 4196,
-      "drawDate": "2026-07-02",
-      "winningNumbers": [
-        5,
-        7,
-        11,
-        37,
-        46,
-        49
-      ],
-      "additionalNumber": 16,
-      "groupPrizes": {
-        "1": {
-          "amount": null,
-          "winners": null
-        },
-        "2": {
-          "amount": "127051",
-          "winners": 2
-        },
-        "3": {
-          "amount": "1560",
-          "winners": 112
-        },
-        "4": {
-          "amount": "355",
-          "winners": 269
-        },
-        "5": {
-          "amount": "50",
-          "winners": 5172
-        },
-        "6": {
-          "amount": "25",
-          "winners": 7826
-        },
-        "7": {
-          "amount": "10",
-          "winners": 107052
-        }
-      },
-      "source": "sgp_scrape_2023_present"
-    },
     {
       "drawNumber": 4197,
       "drawDate": "2026-07-06",
@@ -2392,6 +2348,50 @@
         "7": {
           "amount": "10",
           "winners": 97488
+        }
+      },
+      "source": "sgp_online_api"
+    },
+    {
+      "drawNumber": 4222,
+      "drawDate": "2026-10-01",
+      "winningNumbers": [
+        5,
+        8,
+        11,
+        24,
+        26,
+        43
+      ],
+      "additionalNumber": 20,
+      "groupPrizes": {
+        "1": {
+          "amount": "613605",
+          "winners": 2
+        },
+        "2": {
+          "amount": "86120",
+          "winners": 3
+        },
+        "3": {
+          "amount": "1090",
+          "winners": 163
+        },
+        "4": {
+          "amount": "195",
+          "winners": 498
+        },
+        "5": {
+          "amount": "50",
+          "winners": 8082
+        },
+        "6": {
+          "amount": "25",
+          "winners": 11394
+        },
+        "7": {
+          "amount": "10",
+          "winners": 132253
         }
       },
       "source": "sgp_online_api"
