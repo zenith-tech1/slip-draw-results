@@ -1,39 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T13:35:12Z",
+  "generatedAt": "2026-10-03T11:31:39Z",
   "fourd": [
-    {
-      "drawDate": "2026-07-04",
-      "firstPrize": "4230",
-      "secondPrize": "1610",
-      "thirdPrize": "2014",
-      "starterNumbers": [
-        "0006",
-        "0598",
-        "0607",
-        "2189",
-        "2902",
-        "3228",
-        "3733",
-        "3847",
-        "3950",
-        "7643"
-      ],
-      "consolationNumbers": [
-        "1464",
-        "1826",
-        "2013",
-        "4717",
-        "6799",
-        "7071",
-        "7537",
-        "8303",
-        "9167",
-        "9659"
-      ],
-      "officialDrawNumber": null,
-      "source": "sgp_scrape_2018_present"
-    },
     {
       "drawDate": "2026-07-05",
       "firstPrize": "0629",
@@ -1248,6 +1216,38 @@
         "9065"
       ],
       "officialDrawNumber": 5542,
+      "source": "sgp_online_api"
+    },
+    {
+      "drawDate": "2026-10-03",
+      "firstPrize": "3670",
+      "secondPrize": "0529",
+      "thirdPrize": "6722",
+      "starterNumbers": [
+        "1043",
+        "1638",
+        "3209",
+        "5689",
+        "5805",
+        "5881",
+        "7339",
+        "8807",
+        "8812",
+        "9343"
+      ],
+      "consolationNumbers": [
+        "0418",
+        "0529",
+        "0826",
+        "1700",
+        "2630",
+        "2706",
+        "2828",
+        "6838",
+        "7083",
+        "9661"
+      ],
+      "officialDrawNumber": 5543,
       "source": "sgp_online_api"
     }
   ],
