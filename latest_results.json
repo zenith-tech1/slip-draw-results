@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T12:52:50Z",
+  "generatedAt": "2026-10-20T00:26:38Z",
   "fourd": [
     {
       "drawDate": "2026-07-22",
@@ -1253,50 +1253,6 @@
   ],
   "toto": [
     {
-      "drawNumber": 4201,
-      "drawDate": "2026-07-20",
-      "winningNumbers": [
-        1,
-        8,
-        11,
-        14,
-        33,
-        43
-      ],
-      "additionalNumber": 44,
-      "groupPrizes": {
-        "1": {
-          "amount": null,
-          "winners": null
-        },
-        "2": {
-          "amount": "65663",
-          "winners": 4
-        },
-        "3": {
-          "amount": "1598",
-          "winners": 113
-        },
-        "4": {
-          "amount": "347",
-          "winners": 284
-        },
-        "5": {
-          "amount": "50",
-          "winners": 6680
-        },
-        "6": {
-          "amount": "25",
-          "winners": 7131
-        },
-        "7": {
-          "amount": "10",
-          "winners": 117656
-        }
-      },
-      "source": "sgp_scrape_2023_present"
-    },
-    {
       "drawNumber": 4202,
       "drawDate": "2026-07-23",
       "winningNumbers": [
@@ -2392,6 +2348,50 @@
         "7": {
           "amount": "10",
           "winners": 95405
+        }
+      },
+      "source": "sgp_online_api"
+    },
+    {
+      "drawNumber": 4227,
+      "drawDate": "2026-10-19",
+      "winningNumbers": [
+        2,
+        15,
+        19,
+        20,
+        27,
+        30
+      ],
+      "additionalNumber": 5,
+      "groupPrizes": {
+        "1": {
+          "amount": "2928913",
+          "winners": 1
+        },
+        "2": {
+          "amount": "68513",
+          "winners": 9
+        },
+        "3": {
+          "amount": "1359",
+          "winners": 183
+        },
+        "4": {
+          "amount": "200",
+          "winners": 681
+        },
+        "5": {
+          "amount": "50",
+          "winners": 9069
+        },
+        "6": {
+          "amount": "25",
+          "winners": 16199
+        },
+        "7": {
+          "amount": "10",
+          "winners": 159045
         }
       },
       "source": "sgp_online_api"
