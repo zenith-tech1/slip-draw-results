@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T14:19:58Z",
+  "generatedAt": "2026-10-23T01:08:39Z",
   "fourd": [
     {
       "drawDate": "2026-07-25",
@@ -672,7 +672,7 @@
         "9655"
       ],
       "officialDrawNumber": 5533,
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawDate": "2026-09-12",
@@ -704,7 +704,7 @@
         "9982"
       ],
       "officialDrawNumber": 5534,
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawDate": "2026-09-13",
@@ -736,7 +736,7 @@
         "9777"
       ],
       "officialDrawNumber": 5535,
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawDate": "2026-09-16",
@@ -768,7 +768,7 @@
         "9710"
       ],
       "officialDrawNumber": 5536,
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawDate": "2026-09-19",
@@ -800,7 +800,7 @@
         "7913"
       ],
       "officialDrawNumber": 5537,
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawDate": "2026-09-20",
@@ -832,7 +832,7 @@
         "7892"
       ],
       "officialDrawNumber": 5538,
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawDate": "2026-09-23",
@@ -864,7 +864,7 @@
         "9423"
       ],
       "officialDrawNumber": 5539,
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawDate": "2026-09-26",
@@ -896,7 +896,7 @@
         "9253"
       ],
       "officialDrawNumber": 5540,
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawDate": "2026-09-27",
@@ -928,7 +928,7 @@
         "9784"
       ],
       "officialDrawNumber": 5541,
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawDate": "2026-09-30",
@@ -960,7 +960,7 @@
         "9065"
       ],
       "officialDrawNumber": 5542,
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawDate": "2026-10-03",
@@ -992,7 +992,7 @@
         "9661"
       ],
       "officialDrawNumber": 5543,
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawDate": "2026-10-04",
@@ -1024,7 +1024,7 @@
         "9633"
       ],
       "officialDrawNumber": 5544,
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawDate": "2026-10-07",
@@ -1056,7 +1056,7 @@
         "9781"
       ],
       "officialDrawNumber": 5545,
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawDate": "2026-10-10",
@@ -1088,7 +1088,7 @@
         "9757"
       ],
       "officialDrawNumber": 5546,
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawDate": "2026-10-11",
@@ -1120,7 +1120,7 @@
         "9928"
       ],
       "officialDrawNumber": 5547,
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawDate": "2026-10-14",
@@ -1152,7 +1152,7 @@
         "9325"
       ],
       "officialDrawNumber": 5548,
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawDate": "2026-10-17",
@@ -1184,7 +1184,7 @@
         "8067"
       ],
       "officialDrawNumber": 5549,
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawDate": "2026-10-18",
@@ -1216,7 +1216,7 @@
         "9940"
       ],
       "officialDrawNumber": 5550,
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawDate": "2026-10-21",
@@ -1248,54 +1248,10 @@
         "9363"
       ],
       "officialDrawNumber": 5551,
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     }
   ],
   "toto": [
-    {
-      "drawNumber": 4202,
-      "drawDate": "2026-07-23",
-      "winningNumbers": [
-        8,
-        11,
-        17,
-        21,
-        37,
-        48
-      ],
-      "additionalNumber": 35,
-      "groupPrizes": {
-        "1": {
-          "amount": null,
-          "winners": null
-        },
-        "2": {
-          "amount": "70490",
-          "winners": 5
-        },
-        "3": {
-          "amount": "1756",
-          "winners": 138
-        },
-        "4": {
-          "amount": "304",
-          "winners": 436
-        },
-        "5": {
-          "amount": "50",
-          "winners": 7739
-        },
-        "6": {
-          "amount": "25",
-          "winners": 9790
-        },
-        "7": {
-          "amount": "10",
-          "winners": 144353
-        }
-      },
-      "source": "sgp_scrape_2023_present"
-    },
     {
       "drawNumber": 4203,
       "drawDate": "2026-07-27",
@@ -1910,7 +1866,7 @@
           "winners": 104319
         }
       },
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawNumber": 4217,
@@ -1954,7 +1910,7 @@
           "winners": 196644
         }
       },
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawNumber": 4218,
@@ -1998,7 +1954,7 @@
           "winners": 99958
         }
       },
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawNumber": 4219,
@@ -2042,7 +1998,7 @@
           "winners": 120264
         }
       },
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawNumber": 4220,
@@ -2086,7 +2042,7 @@
           "winners": 221639
         }
       },
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawNumber": 4221,
@@ -2130,7 +2086,7 @@
           "winners": 97488
         }
       },
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawNumber": 4222,
@@ -2174,7 +2130,7 @@
           "winners": 132253
         }
       },
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawNumber": 4223,
@@ -2218,7 +2174,7 @@
           "winners": 97110
         }
       },
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawNumber": 4224,
@@ -2262,7 +2218,7 @@
           "winners": 146036
         }
       },
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawNumber": 4225,
@@ -2306,7 +2262,7 @@
           "winners": 249805
         }
       },
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawNumber": 4226,
@@ -2350,7 +2306,7 @@
           "winners": 95405
         }
       },
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     },
     {
       "drawNumber": 4227,
@@ -2392,6 +2348,50 @@
         "7": {
           "amount": "10",
           "winners": 159045
+        }
+      },
+      "source": "live_feed_merge"
+    },
+    {
+      "drawNumber": 4228,
+      "drawDate": "2026-10-22",
+      "winningNumbers": [
+        12,
+        17,
+        25,
+        34,
+        43,
+        47
+      ],
+      "additionalNumber": 21,
+      "groupPrizes": {
+        "1": {
+          "amount": "601741",
+          "winners": 2
+        },
+        "2": {
+          "amount": "42228",
+          "winners": 6
+        },
+        "3": {
+          "amount": "1440",
+          "winners": 121
+        },
+        "4": {
+          "amount": "274",
+          "winners": 348
+        },
+        "5": {
+          "amount": "50",
+          "winners": 5208
+        },
+        "6": {
+          "amount": "25",
+          "winners": 7298
+        },
+        "7": {
+          "amount": "10",
+          "winners": 88022
         }
       },
       "source": "sgp_online_api"
