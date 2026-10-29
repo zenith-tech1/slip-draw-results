@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T07:41:38Z",
+  "generatedAt": "2026-10-29T13:22:13Z",
   "fourd": [
     {
       "drawDate": "2026-08-01",
@@ -1248,7 +1248,7 @@
         "9204"
       ],
       "officialDrawNumber": 5554,
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     }
   ],
   "toto": [
@@ -2351,6 +2351,50 @@
         }
       },
       "source": "live_feed_merge"
+    },
+    {
+      "drawNumber": 4230,
+      "drawDate": "2026-10-29",
+      "winningNumbers": [
+        5,
+        9,
+        19,
+        31,
+        41,
+        48
+      ],
+      "additionalNumber": 27,
+      "groupPrizes": {
+        "1": {
+          "amount": null,
+          "winners": null
+        },
+        "2": {
+          "amount": null,
+          "winners": null
+        },
+        "3": {
+          "amount": "1629",
+          "winners": 106
+        },
+        "4": {
+          "amount": "373",
+          "winners": 253
+        },
+        "5": {
+          "amount": "50",
+          "winners": 5453
+        },
+        "6": {
+          "amount": "25",
+          "winners": 8100
+        },
+        "7": {
+          "amount": "10",
+          "winners": 105656
+        }
+      },
+      "source": "sgp_online_api"
     }
   ]
 }
