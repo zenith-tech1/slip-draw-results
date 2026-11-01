@@ -1,71 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T13:22:13Z",
+  "generatedAt": "2026-11-01T10:20:18Z",
   "fourd": [
-    {
-      "drawDate": "2026-08-01",
-      "firstPrize": "5964",
-      "secondPrize": "0462",
-      "thirdPrize": "0631",
-      "starterNumbers": [
-        "2182",
-        "2596",
-        "2869",
-        "3167",
-        "5565",
-        "5739",
-        "5843",
-        "6308",
-        "7502",
-        "9040"
-      ],
-      "consolationNumbers": [
-        "0267",
-        "1692",
-        "4108",
-        "5810",
-        "6750",
-        "8001",
-        "8632",
-        "8675",
-        "9562",
-        "9955"
-      ],
-      "officialDrawNumber": null,
-      "source": "sgp_scrape_2018_present"
-    },
-    {
-      "drawDate": "2026-08-02",
-      "firstPrize": "3052",
-      "secondPrize": "7038",
-      "thirdPrize": "2268",
-      "starterNumbers": [
-        "0051",
-        "0766",
-        "2875",
-        "5068",
-        "6347",
-        "6367",
-        "7934",
-        "8842",
-        "8955",
-        "9857"
-      ],
-      "consolationNumbers": [
-        "0179",
-        "0962",
-        "1071",
-        "1448",
-        "1823",
-        "2571",
-        "2908",
-        "4025",
-        "5864",
-        "7278"
-      ],
-      "officialDrawNumber": null,
-      "source": "sgp_scrape_2018_present"
-    },
     {
       "drawDate": "2026-08-05",
       "firstPrize": "0715",
@@ -1249,6 +1185,38 @@
       ],
       "officialDrawNumber": 5554,
       "source": "live_feed_merge"
+    },
+    {
+      "drawDate": "2026-10-31",
+      "firstPrize": "4726",
+      "secondPrize": "0923",
+      "thirdPrize": "3811",
+      "starterNumbers": [
+        "0242",
+        "2359",
+        "2633",
+        "2780",
+        "2995",
+        "4076",
+        "5366",
+        "6943",
+        "7677",
+        "8732"
+      ],
+      "consolationNumbers": [
+        "1102",
+        "3141",
+        "4073",
+        "4955",
+        "5398",
+        "6653",
+        "6736",
+        "6891",
+        "8065",
+        "9844"
+      ],
+      "officialDrawNumber": 5555,
+      "source": "sgp_online_api"
     }
   ],
   "toto": [
@@ -2394,7 +2362,7 @@
           "winners": 105656
         }
       },
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     }
   ]
 }
