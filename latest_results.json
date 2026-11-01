@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T10:20:18Z",
+  "generatedAt": "2026-11-01T15:55:32Z",
   "fourd": [
     {
       "drawDate": "2026-08-05",
@@ -1216,6 +1216,38 @@
         "9844"
       ],
       "officialDrawNumber": 5555,
+      "source": "live_feed_merge"
+    },
+    {
+      "drawDate": "2026-11-01",
+      "firstPrize": "9743",
+      "secondPrize": "3910",
+      "thirdPrize": "9150",
+      "starterNumbers": [
+        "2347",
+        "2447",
+        "3070",
+        "3762",
+        "3861",
+        "5175",
+        "6437",
+        "6885",
+        "7184",
+        "9032"
+      ],
+      "consolationNumbers": [
+        "1160",
+        "1293",
+        "1999",
+        "2289",
+        "3347",
+        "3453",
+        "3918",
+        "5032",
+        "7082",
+        "8767"
+      ],
+      "officialDrawNumber": 5556,
       "source": "sgp_online_api"
     }
   ],
