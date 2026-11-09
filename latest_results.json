@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T13:33:26Z",
+  "generatedAt": "2026-11-09T14:50:12Z",
   "fourd": [
     {
       "drawDate": "2026-08-12",
@@ -2351,6 +2351,50 @@
         }
       },
       "source": "live_feed_merge"
+    },
+    {
+      "drawNumber": 4233,
+      "drawDate": "2026-11-09",
+      "winningNumbers": [
+        5,
+        27,
+        29,
+        38,
+        40,
+        43
+      ],
+      "additionalNumber": 4,
+      "groupPrizes": {
+        "1": {
+          "amount": "6099279",
+          "winners": 2
+        },
+        "2": {
+          "amount": "115990",
+          "winners": 12
+        },
+        "3": {
+          "amount": "1903",
+          "winners": 503
+        },
+        "4": {
+          "amount": "418",
+          "winners": 1249
+        },
+        "5": {
+          "amount": "50",
+          "winners": 27707
+        },
+        "6": {
+          "amount": "25",
+          "winners": 36396
+        },
+        "7": {
+          "amount": "10",
+          "winners": 509079
+        }
+      },
+      "source": "sgp_online_api"
     }
   ]
 }
