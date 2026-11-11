@@ -1,39 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T14:50:12Z",
+  "generatedAt": "2026-11-11T15:26:52Z",
   "fourd": [
-    {
-      "drawDate": "2026-08-12",
-      "firstPrize": "2375",
-      "secondPrize": "2490",
-      "thirdPrize": "6546",
-      "starterNumbers": [
-        "0047",
-        "0498",
-        "0640",
-        "0832",
-        "1505",
-        "2487",
-        "4702",
-        "6103",
-        "6804",
-        "7305"
-      ],
-      "consolationNumbers": [
-        "0942",
-        "1035",
-        "1161",
-        "2482",
-        "3845",
-        "4395",
-        "4643",
-        "5261",
-        "5825",
-        "7456"
-      ],
-      "officialDrawNumber": null,
-      "source": "sgp_scrape_2018_present"
-    },
     {
       "drawDate": "2026-08-15",
       "firstPrize": "6714",
@@ -1249,6 +1217,38 @@
       ],
       "officialDrawNumber": 5559,
       "source": "live_feed_merge"
+    },
+    {
+      "drawDate": "2026-11-11",
+      "firstPrize": "7701",
+      "secondPrize": "9366",
+      "thirdPrize": "6785",
+      "starterNumbers": [
+        "1145",
+        "1174",
+        "1619",
+        "2505",
+        "3347",
+        "4350",
+        "6885",
+        "7821",
+        "8152",
+        "9141"
+      ],
+      "consolationNumbers": [
+        "0165",
+        "1022",
+        "4557",
+        "6193",
+        "6620",
+        "7393",
+        "7475",
+        "8042",
+        "8120",
+        "9007"
+      ],
+      "officialDrawNumber": 5560,
+      "source": "sgp_online_api"
     }
   ],
   "toto": [
@@ -2394,7 +2394,7 @@
           "winners": 509079
         }
       },
-      "source": "sgp_online_api"
+      "source": "live_feed_merge"
     }
   ]
 }
